@@ -74,4 +74,4 @@ else:
         st.link_button("관리자 전용, 응시결과 확인", "https://mbpaucgnbv5d8syegjpqh6.streamlit.app/")
 
     st.divider()
-    st.markdown("<h5 style='text-align: center;'>측정할 수 없는 것은 개선할 수 없습니다</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='text-align: center;'>GDX, 측정할 수 없는 것은 개선할 수 없습니다</h3>", unsafe_allow_html=True)
