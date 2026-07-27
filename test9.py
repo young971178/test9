@@ -73,7 +73,7 @@ else:
         st.button("📝 오프라인 교육 과제제출", on_click=go_subpage, key="hw", use_container_width=True)
         
     with r2_c3:
-        st.button("💡 AXage 불편신고 및 개선건의", on_click=go_subpage, key="voc", use_container_width=True)
+        st.button("💡 덱수의 와이낫 몰아보기", on_click=go_subpage, key="voc", use_container_width=True)
         st.link_button("⚙️ 관리자 전용 응시결과 확인", "https://mbpaucgnbv5d8syegjpqh6.streamlit.app/", use_container_width=True)
 
     st.divider()
